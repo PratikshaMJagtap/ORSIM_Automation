@@ -1,0 +1,2 @@
+it4339yr,Manage.Server,OK
+it4339yr,NodeManager,OK
